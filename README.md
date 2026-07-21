@@ -221,6 +221,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Behance](http://behance.net) — Creative portfolio platform
 - [Dribbble](https://dribbble.com/) — Design portfolio & inspiration
 - [The FWA](http://thefwa.com) — Cutting-edge digital work
+- [UIZZE](https://uizze.com) — Search 800,000+ real web and iOS product screens for interface references
 
 ---
 
