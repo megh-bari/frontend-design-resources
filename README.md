@@ -212,6 +212,7 @@ A curated collection of the best resources for frontend development and web desi
 - [21st Dev Templates](https://21st.dev) — Modern templates
 - [Landingfolio](https://landingfolio.com) — Landing page inspiration
 - [Shadcnblocks](https://shadcnblocks.com) — Shadcn UI blocks
+- [Gummble](https://gummble.com) — Real app screens, UX flows, patterns, and microcopy for design research and AI agents
 - [Mobbin](https://mobbin.com) — Mobile app design patterns
 - [Screenlane](https://screenlane.com) — UI inspiration
 - [Minimal Gallery](https://minimal.gallery) — Minimalist web design
