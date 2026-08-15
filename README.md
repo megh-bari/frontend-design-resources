@@ -76,6 +76,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Freepik](https://freepik.com/) — Free and premium design resources
 - [Burst](https://burst.shopify.com/) — Free stock photos by Shopify
 - [Freepik](https://www.freepik.com/) — Free and premium vectors, icons, logos, templates, and more for designers.
+- [DeerImage](https://deerimage.com/) — Free no-sign-up browser image tools for compression, conversion, resizing, and editing.
 
 ---
 
