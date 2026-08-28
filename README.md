@@ -244,6 +244,7 @@ A curated collection of the best resources for frontend development and web desi
 ## Bonus: Fun/Utility
 
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) — Animated typing SVG for README files
+- [Nutilz](https://nutilz.com/) — Free browser-based developer utilities: regex tester, JSON formatter, unit converter, calculators, and more
 
 ---
 
