@@ -39,6 +39,7 @@ A curated collection of the best resources for frontend development and web desi
 
 - [World Vector Logo](https://worldvectorlogo.com/) — Free SVG vector logos of popular brands.
 - [Brandfetch](https://brandfetch.com/) — Instantly search and download official brand logos and assets.
+- [Motomarks](https://motomarks.io/logos) — Published car manufacturer marks for product UI: pick a brand slug and load badge, wordmark, or full logo over an image CDN.
 - [Seeklogo](https://seeklogo.com/) — Large collection of free vector logos in multiple formats.
 - [Logopond](https://logopond.com/) — Creative logo design inspiration and showcase.
 - [Freepik - Logos](https://www.freepik.com/free-logos) — Thousands of free and premium logo vectors.
