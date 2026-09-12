@@ -150,6 +150,7 @@ A curated collection of the best resources for frontend development and web desi
 - [CSS Clip-Path Maker](https://bennettfeely.com/clippy/) — Visual clip-path generator
 - [Box Shadow Generator](https://box-shadow.dev/) — CSS box-shadow generator
 - [Gradient Generator](https://cssgradient.io/) — CSS gradient maker
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Neumorphism.io](https://neumorphism.io/) — Soft UI CSS generator
 
 ---
