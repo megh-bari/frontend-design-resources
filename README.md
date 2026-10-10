@@ -244,6 +244,7 @@ A curated collection of the best resources for frontend development and web desi
 ## Bonus: Fun/Utility
 
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) — Animated typing SVG for README files
+- [Stunna Photo Tools](https://stunna-app.com/tools) — Free browser photo filters, photo booth frames and photo strips; local image processing, no account or watermark
 
 ---
 
