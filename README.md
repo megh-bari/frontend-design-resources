@@ -244,6 +244,7 @@ A curated collection of the best resources for frontend development and web desi
 ## Bonus: Fun/Utility
 
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) — Animated typing SVG for README files
+- [ASCII Images](https://ascii-images.com/) — Free no-account tools for static ASCII artwork, FIGlet banners and plain-text diagrams.
 
 ---
 
