@@ -65,6 +65,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Adobe Fonts](https://fonts.adobe.com/) — Premium font library
 - [Fontjoy](https://fontjoy.com/) — AI-powered font pairing tool
 - [Type Scale](https://typescale.com/) — Typography scale generator
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) — Pair script headings with body fonts for lettering layouts
 
 ---
 
