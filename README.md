@@ -244,6 +244,7 @@ A curated collection of the best resources for frontend development and web desi
 ## Bonus: Fun/Utility
 
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) — Animated typing SVG for README files
+- [PixelArtHive](https://pixelarthive.com/) — Free browser-local tools for converting images to pixel art and upscaling existing pixel graphics
 
 ---
 
